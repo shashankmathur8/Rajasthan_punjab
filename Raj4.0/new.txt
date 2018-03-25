@@ -1,0 +1,4 @@
+function something(){
+console.log("new function")
+}
+something();
